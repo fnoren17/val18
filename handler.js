@@ -25,12 +25,15 @@ function clicked(state){
         .attr("id", "kommuner")
         .selectAll("path")
         .data(topojson.feature(data, data.objects.kommuner).features)
-        .filter(function(d){return d.properties.state == "Stockholm";})
         .enter()
         .append("path")
         .attr("id", function(d) { return d.id; })
-        .attr("d", path);
-        //.on("click", clicked);
+        .attr("class", function(d){return d.properties.state;})
+        .attr("d", path)
+        .on("click", function(d){console.log(d.properties.name)});
+
 });
+
+
 
 }

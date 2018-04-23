@@ -14,22 +14,19 @@
   height: 600px;
   float: right;
 }
-
-
-
 * {
   margin: 0;
   padding: 0;
 }
 svg, body {
-  background-color: steelblue;
+  background-color: white;
 }
-svg {
+svg.map {
   width: auto;
   height: 600px;
   margin: 0 auto;
 }
-g {
+g.map {
   fill: yellowgreen;
   stroke: olivedrab;
 }

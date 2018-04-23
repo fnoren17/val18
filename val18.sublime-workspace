@@ -1,0 +1,625 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"properties"
+			],
+			[
+				"selec",
+				"selectAll"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"css",
+				"css"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"coutr",
+				"countryC02ofBrazil"
+			],
+			[
+				"coun",
+				"countryC02ofBrazil"
+			],
+			[
+				"cou",
+				"countryC02ofBrazil"
+			],
+			[
+				"cli",
+				"clickedLevel"
+			],
+			[
+				"trans",
+				"translatey"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"trna",
+				"translatey"
+			],
+			[
+				"tran",
+				"translatex"
+			],
+			[
+				"scale",
+				"scaleExtent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 606,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/xcode.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "rein",
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"material ",
+				"Material Theme: Configuration"
+			],
+			[
+				"statu",
+				"git: status"
+			],
+			[
+				"log",
+				"git: log"
+			],
+			[
+				"branc",
+				"git: branch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"  Git: add",
+				"Git: Quick Add"
+			],
+			[
+				"  Git: ",
+				"Git: Commit"
+			],
+			[
+				"  Git: Status",
+				"Git: Status"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: Disable Package"
+			],
+			[
+				"matera",
+				"Material Theme: Configuration"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+			"view.settings().get('font_size')",
+			"view.settings().get('font_face')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/felix/Documents/val18"
+	],
+	"file_history":
+	[
+		"/Users/felix/Documents/kommun/kommun.json",
+		"/Users/felix/Documents/val18/handler.js",
+		"/Users/felix/Documents/kommun/index.html",
+		"/Users/felix/Documents/kommun/kommuner.json",
+		"/Users/felix/Documents/val18/index.html",
+		"/Users/felix/Documents/val18/style.css",
+		"/Users/felix/Documents/val18/sweden.topo.json",
+		"/Users/felix/Downloads/Animation Lab2-2/vectorLab/vectorLab.cpp",
+		"/Users/felix/Downloads/ne_10m_admin_1_states_provinces_lakes/states.json",
+		"/Users/felix/Downloads/ne_10m_admin_0_countries_lakes/countries.json",
+		"/Users/felix/Documents/infovis18/sunburst.js",
+		"/Users/felix/Documents/infovis18/map.js",
+		"/Users/felix/Desktop/index.html",
+		"/Users/felix/Documents/infovis18/sunburst.html",
+		"/Users/felix/Documents/infovis18/backuo.js",
+		"/Users/felix/Documents/infovis18/style.css",
+		"/Users/felix/Documents/DH2320 Infovis/infovis18/style.css",
+		"/Users/felix/Documents/Java för Python/test.java",
+		"/Users/felix/Desktop/test.java",
+		"/Users/felix/Library/Application Support/Sublime Text 3/Packages/User/java.sublime-build",
+		"/Users/felix/Desktop/Java/JavaC.sublime-build",
+		"/Users/felix/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/felix/Desktop/[shell_cmd",
+		"/Applications/Sublime Text.app/Contents/MacOS/Packages/Java.sublime-package",
+		"/Users/felix/Documents/DH2320 Infovis/infovis18/datagram.json",
+		"/Users/felix/.bashrc",
+		"/Users/felix/.bash_profile",
+		"/Users/felix/Box Sync/KTH/DH2323 DGI/Lab1/Lab1/Supporting Files/skeleton.cpp",
+		"/Users/felix/Documents/DH2320 Infovis/infovis18/map.js",
+		"/Users/felix/Documents/DH2320 Infovis/infovis18/index.html",
+		"/Users/felix/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/felix/Box Sync/KTH/DH2323 DGI/Lab1/Supporting Files/skeleton.cpp",
+		"/Users/felix/Library/Application Support/Sublime Text 3/Packages/User/xcode.sublime-build",
+		"/Users/felix/Box Sync/KTH/DH2323 DGI/Lab1/Lab1.sublime-project",
+		"/Users/felix/Desktop/helloWorld.py",
+		"/Users/felix/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/felix/Library/Application Support/Sublime Text 3/Packages/User/pythonrepl.sublime-build",
+		"/Users/felix/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/felix/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/felix/Box Sync/KTH/Klara/DH2642 Interaktionsprogrammering/Labb4/dinnerplanner-html-master2/page4.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 31,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_savvy.repo_path": "/Users/felix/Documents/val18",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 128.0
+	},
+	"output.exec":
+	{
+		"height": 134.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 134.0
+	},
+	"pinned_build_system": "Packages/User/java.sublime-build",
+	"project": "val18.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
